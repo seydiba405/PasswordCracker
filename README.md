@@ -154,7 +154,7 @@ Password not found
 
 > ⚠️ **Note importante sur le hash de l'énoncé.** L'énoncé donne l'exemple `e7247759c1633c0f9f1485f3690294a9` pour le mot `test`. Vérification faite, ce hash **ne correspond pas** à `md5("test")`, qui vaut en réalité `098f6bcd4621d373cade4e832627b4f6`. La force brute complète (`a–z`, longueur ≤ 4, 475 254 combinaisons) ne trouve d'ailleurs aucun antécédent pour le hash de l'énoncé : ce n'est ni un mot de 4 lettres minuscules, ni un mot du dictionnaire. Les exemples ci-dessus utilisent donc des hashes MD5 réels.
 
-**Vidéo de présentation (≤ 10 min) :** _à insérer ici (lien)._
+**Vidéo de présentation (≤ 10 min) :** https://youtu.be/bcbhjJYydo4
 
 ## 7. Difficultés rencontrées
 
